@@ -1,0 +1,5 @@
+﻿  소스.cpp
+C:\Users\whxog\source\repos\calculate\calculate\소스.cpp(31,20): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\whxog\source\repos\calculate\calculate\소스.cpp(34,32): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\whxog\source\repos\calculate\calculate\소스.cpp(35,26): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  calculate.vcxproj -> C:\Users\whxog\source\repos\calculate\x64\Debug\calculate.exe
