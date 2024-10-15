@@ -30,8 +30,12 @@ int main(void)
 		Result = Num1 * Num2;
 		break;
 
-	default:
+	case '/':
 		Result = Num1 / Num2;
+		break;
+
+	default:
+		printf("오류가 발생했습니다.");
 		break;
 
 	}
