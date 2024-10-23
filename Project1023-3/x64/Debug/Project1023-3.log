@@ -1,0 +1,3 @@
+﻿  소스.cpp
+C:\Users\Cju\Documents\GitHub\ProgramingCJU2024\Project1023-3\소스.cpp(7,6): warning C4101: 'temp' :참조되지 않은 지역 변수입니다.
+  Project1023-3.vcxproj -> C:\Users\Cju\Documents\GitHub\ProgramingCJU2024\Project1023-3\x64\Debug\Project1023-3.exe
