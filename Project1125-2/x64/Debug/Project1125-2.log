@@ -1,0 +1,4 @@
+﻿  소스.cpp
+C:\Users\Cju\Documents\GitHub\ProgramingCJU2024\Project1125-2\소스.cpp(12,13): warning C4477: 'scanf_s' : 서식 문자열 '%[^\n]'에 'unsigned int' 형식의 인수가 필요하지만 variadic 인수 2의 형식이 'size_t'입니다.
+C:\Users\Cju\Documents\GitHub\ProgramingCJU2024\Project1125-2\소스.cpp(12,13): message : 이 인수는 버퍼 크기로 사용됩니다.
+  Project1125-2.vcxproj -> C:\Users\Cju\Documents\GitHub\ProgramingCJU2024\Project1125-2\x64\Debug\Project1125-2.exe
